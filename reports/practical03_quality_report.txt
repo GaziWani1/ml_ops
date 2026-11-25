@@ -14,17 +14,17 @@ SO2           935
 PM2.5         925
 PM10          718
 wd             81
-DEWP           20
 RAIN           20
-TEMP           20
 PRES           20
+DEWP           20
+TEMP           20
 WSPM           14
-station         0
+month           0
 No              0
 year            0
 hour            0
 day             0
-month           0
+station         0
 timestamp       0
 
 Negative pollutant counts:
