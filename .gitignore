@@ -14,3 +14,4 @@ models/
 # Generated reports and editor settings
 reports/*.png
 .vscode/
+.dvc
